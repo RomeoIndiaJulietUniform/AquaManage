@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:RomeoIndiaJulietUniform/AquaManage_Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/RomeoIndiaJulietUniform/AquaManage_Backend.git
